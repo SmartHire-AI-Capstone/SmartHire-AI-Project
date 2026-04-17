@@ -1,0 +1,501 @@
+candidate_id,name,age,education,experience_years,skills,applied_position,match_score
+1,Lukman Nugroho,26,S1,0.1,"Excel, Deep Learning, SQL, React, JavaScript, Tableau",Data Science,67.83
+2,Indah Permata,39,S2,9.8,"React, Node.js, Python, Tableau, Excel, Deep Learning",Full Stack Web,60.3
+3,Maya Wibowo,34,SMA,4.9,"Power BI, React, Machine Learning",AI Engineering,85.9
+4,Vina Saputri,30,D3,7.2,"Machine Learning, SQL, Node.js",AI Engineering,95.92
+5,Nanda Gunawan,27,D3,8.2,"JavaScript, Machine Learning, Node.js",Full Stack Web,69.74
+6,Sari Pratama,26,S2,7.2,"Excel, Python, Deep Learning, Machine Learning, Node.js",Data Science,97.08
+7,Kartika Siregar,38,SMA,5.4,"Power BI, Tableau, TensorFlow, Python, Deep Learning, React",Data Science,62.41
+8,Maya Kusuma,30,SMA,4.8,"TensorFlow, Node.js, Machine Learning",Full Stack Web,97.38
+9,Putri Permata,30,D3,8.4,"TensorFlow, Excel, Deep Learning, Tableau, Node.js",Full Stack Web,74.06
+10,Hadi Wijaya,23,S1,2.1,"Tableau, Power BI, Machine Learning, Excel",AI Engineering,64.06
+11,Budi Wibowo,27,D3,9.7,"Deep Learning, Tableau, Excel, Power BI",Data Science,79.43
+12,Yoga Saputra,22,SMA,7.1,"Node.js, Deep Learning, Excel, TensorFlow, Machine Learning, Tableau",Full Stack Web,70.27
+13,Putri Rahmawati,21,S2,2.0,"TensorFlow, Deep Learning, Power BI, Machine Learning, JavaScript",Data Science,71.39
+14,Maya Siregar,31,D3,7.4,"Power BI, JavaScript, TensorFlow, Deep Learning, Python",Full Stack Web,72.29
+15,Yoga Santoso,25,SMA,5.3,"SQL, JavaScript, Tableau, TensorFlow, Node.js",Full Stack Web,92.12
+16,Eka Gunawan,21,D3,7.1,"TensorFlow, Python, SQL, React, Power BI, Machine Learning",Data Science,81.57
+17,Maya Saputra,20,S1,7.7,"Tableau, Power BI, SQL",Full Stack Web,72.45
+18,Dewi Utama,31,D3,0.9,"Deep Learning, Tableau, Node.js",Full Stack Web,84.41
+19,Yoga Gunawan,31,D3,5.1,"Node.js, Python, React, Deep Learning, Power BI",AI Engineering,88.65
+20,Tono Kusuma,36,SMA,9.3,"JavaScript, Node.js, Python",Full Stack Web,70.9
+21,Rizki Lestari,29,SMA,3.2,"Node.js, Deep Learning, Python, Tableau",Full Stack Web,76.54
+22,Kartika Saputra,35,SMA,5.9,"Python, Machine Learning, Node.js, TensorFlow",Full Stack Web,64.88
+23,Indah Rahmawati,34,D3,3.7,"TensorFlow, SQL, Deep Learning, JavaScript, Machine Learning",AI Engineering,67.25
+24,Fajar Kusuma,34,S1,4.5,"Python, React, Excel, Power BI",Data Science,87.24
+25,Maya Rahmawati,38,S2,5.5,"Power BI, JavaScript, Node.js, React, SQL, Excel",AI Engineering,67.26
+26,Vina Lestari,31,S2,5.5,"Python, JavaScript, React",AI Engineering,81.01
+27,Kartika Pratama,39,SMA,2.0,"Excel, Tableau, Deep Learning, TensorFlow, Node.js, JavaScript",Data Science,88.36
+28,Putri Hidayat,22,SMA,6.8,"React, SQL, Excel, JavaScript, TensorFlow",AI Engineering,64.28
+29,Andi Wibowo,24,D3,0.9,"Python, Power BI, Deep Learning",Data Science,82.69
+30,Gita Saputra,38,S2,1.4,"TensorFlow, React, JavaScript, Deep Learning, SQL",AI Engineering,70.26
+31,Eka Rahmawati,26,SMA,0.0,"Python, Power BI, React",Data Science,98.52
+32,Gita Wibowo,28,S1,1.2,"Tableau, React, Excel",Full Stack Web,79.34
+33,Kartika Hidayat,26,S1,4.7,"Python, Machine Learning, React, JavaScript",AI Engineering,92.24
+34,Indah Utama,37,SMA,6.1,"Deep Learning, Excel, Node.js, React, JavaScript",AI Engineering,82.01
+35,Fajar Lestari,23,SMA,7.9,"Excel, Machine Learning, Python, Deep Learning",AI Engineering,61.74
+36,Yoga Rahmawati,33,S2,1.1,"Node.js, Power BI, React",AI Engineering,85.33
+37,Sari Permata,37,S2,8.5,"Excel, Node.js, Machine Learning, TensorFlow, Python",Full Stack Web,98.06
+38,Sari Saputri,28,D3,7.5,"JavaScript, Machine Learning, SQL, TensorFlow, React, Power BI",AI Engineering,84.06
+39,Hadi Saputra,21,S2,4.1,"React, Excel, SQL, TensorFlow",Full Stack Web,92.77
+40,Vina Lestari,39,S1,9.3,"React, JavaScript, Machine Learning, TensorFlow, Deep Learning, Python",Full Stack Web,95.37
+41,Indah Pratama,34,S1,9.9,"JavaScript, Excel, Python, SQL, Machine Learning",Full Stack Web,69.12
+42,Putri Lestari,26,SMA,2.1,"Machine Learning, Excel, JavaScript, React",Full Stack Web,68.48
+43,Kartika Wijaya,31,S2,3.8,"Tableau, SQL, Power BI, React",Data Science,84.44
+44,Fajar Siregar,27,D3,9.3,"SQL, Machine Learning, React",Data Science,76.44
+45,Maya Siregar,34,S1,7.2,"React, Node.js, JavaScript, Machine Learning, Python, Excel",AI Engineering,93.59
+46,Hadi Permata,22,S1,0.5,"TensorFlow, Node.js, Excel, SQL, Power BI",Data Science,96.0
+47,Rizki Permata,33,D3,7.8,"React, Machine Learning, Power BI",Data Science,74.14
+48,Vina Pratama,36,D3,8.3,"Tableau, JavaScript, TensorFlow, Power BI, Excel, SQL",AI Engineering,69.47
+49,Indah Siregar,23,S1,7.5,"Excel, Tableau, Deep Learning, Power BI, TensorFlow",AI Engineering,91.22
+50,Citra Santoso,37,S1,8.0,"Tableau, JavaScript, SQL, Python, Power BI",AI Engineering,70.99
+51,Joko Siregar,27,D3,8.3,"Power BI, SQL, Node.js, Tableau, Machine Learning",Data Science,92.9
+52,Andi Santoso,23,S1,1.9,"JavaScript, Tableau, Node.js, React",Data Science,76.95
+53,Gita Wijaya,21,SMA,2.4,"Node.js, TensorFlow, Power BI, Deep Learning, React",AI Engineering,86.7
+54,Hadi Saputri,25,SMA,6.3,"Deep Learning, TensorFlow, JavaScript, React, Python",Full Stack Web,63.82
+55,Gita Pratama,29,D3,9.1,"Deep Learning, Machine Learning, Tableau, Node.js, Power BI",AI Engineering,84.95
+56,Eka Gunawan,23,S2,3.2,"Python, Excel, TensorFlow, SQL, Power BI",Full Stack Web,78.07
+57,Dewi Utama,37,D3,5.9,"Tableau, Node.js, Excel, JavaScript, Python, TensorFlow",Full Stack Web,83.46
+58,Fajar Wibowo,31,D3,6.8,"JavaScript, Power BI, Excel, TensorFlow",AI Engineering,66.72
+59,Budi Wijaya,21,S2,4.5,"Tableau, SQL, Python",AI Engineering,89.47
+60,Joko Utama,29,S2,7.1,"React, Node.js, Power BI, Deep Learning",AI Engineering,94.51
+61,Eka Saputri,23,S2,9.0,"Node.js, Deep Learning, Machine Learning, Excel, Power BI",Data Science,68.67
+62,Sari Lestari,33,SMA,6.2,"Machine Learning, TensorFlow, Node.js, Tableau",Full Stack Web,63.83
+63,Joko Wibowo,35,S1,5.4,"Node.js, React, Power BI, Tableau, Python, SQL",Data Science,60.95
+64,Putri Nugroho,34,SMA,4.4,"JavaScript, Power BI, Tableau, Node.js",Data Science,85.68
+65,Dewi Rahmawati,27,S1,5.8,"SQL, Python, Machine Learning",AI Engineering,84.28
+66,Citra Rahmawati,33,SMA,3.6,"TensorFlow, Deep Learning, React, Machine Learning, Python, JavaScript",Data Science,81.87
+67,Yoga Utama,27,S1,3.9,"Excel, Machine Learning, Python, React",AI Engineering,69.28
+68,Tono Permata,35,SMA,5.3,"TensorFlow, React, Machine Learning, Excel",Full Stack Web,75.64
+69,Dewi Kusuma,32,S2,0.7,"Node.js, Python, TensorFlow",AI Engineering,83.78
+70,Sari Permata,37,D3,2.3,"Python, Excel, TensorFlow, Node.js, SQL",Data Science,79.87
+71,Eka Wibowo,34,SMA,5.4,"Machine Learning, React, Deep Learning, Excel, SQL, TensorFlow",Data Science,99.51
+72,Hadi Gunawan,32,S1,4.3,"JavaScript, Python, Machine Learning, Tableau",AI Engineering,65.46
+73,Yoga Utama,28,S2,3.3,"React, Machine Learning, Python",AI Engineering,87.81
+74,Vina Hidayat,34,SMA,7.3,"Tableau, JavaScript, Power BI, Deep Learning, Python, TensorFlow",Data Science,76.17
+75,Joko Nugroho,32,SMA,6.9,"TensorFlow, Python, Tableau, JavaScript",Full Stack Web,77.13
+76,Budi Rahmawati,20,S2,1.7,"JavaScript, Tableau, SQL",Full Stack Web,88.7
+77,Citra Siregar,26,SMA,8.8,"Power BI, Deep Learning, JavaScript, Machine Learning",AI Engineering,87.7
+78,Indah Utama,28,D3,5.0,"SQL, JavaScript, Deep Learning, Node.js",Full Stack Web,99.65
+79,Maya Saputri,20,SMA,7.4,"Excel, SQL, JavaScript, Machine Learning",Data Science,65.14
+80,Eka Santoso,31,D3,5.7,"Excel, Machine Learning, React, Node.js, Tableau, JavaScript",AI Engineering,64.16
+81,Kartika Wibowo,27,D3,10.0,"Node.js, React, SQL, Power BI, Machine Learning",Data Science,88.97
+82,Andi Santoso,30,S2,7.5,"Tableau, Deep Learning, JavaScript, SQL, Node.js",Data Science,83.14
+83,Tono Rahmawati,38,SMA,7.1,"SQL, TensorFlow, Node.js, Deep Learning",Full Stack Web,70.97
+84,Fajar Pratama,36,S2,7.8,"JavaScript, Machine Learning, Python, SQL, Power BI",AI Engineering,63.18
+85,Maya Lestari,27,SMA,1.4,"Python, JavaScript, Excel, SQL, Deep Learning, TensorFlow",AI Engineering,63.43
+86,Budi Pratama,22,SMA,2.0,"Deep Learning, JavaScript, Tableau, Node.js, Excel, Machine Learning",Full Stack Web,95.77
+87,Sari Gunawan,22,S1,7.1,"Node.js, Deep Learning, Machine Learning, Excel, Python, Power BI",Data Science,67.67
+88,Kartika Permata,20,SMA,4.9,"Tableau, Node.js, JavaScript, Deep Learning",Data Science,72.93
+89,Sari Pratama,24,S2,7.5,"JavaScript, Power BI, SQL, Node.js, TensorFlow, Deep Learning",Data Science,69.07
+90,Maya Hidayat,29,D3,1.0,"Power BI, Machine Learning, Excel, JavaScript, Node.js, Python",Data Science,74.2
+91,Gita Utama,26,SMA,5.4,"SQL, JavaScript, Tableau, TensorFlow, React",AI Engineering,62.78
+92,Budi Utama,28,S1,3.8,"TensorFlow, Power BI, Deep Learning, Python",AI Engineering,80.76
+93,Sari Gunawan,26,S2,4.6,"Deep Learning, Python, TensorFlow, Node.js, Tableau",Full Stack Web,62.7
+94,Budi Wijaya,28,SMA,6.0,"JavaScript, React, Power BI, Deep Learning, TensorFlow",Full Stack Web,92.01
+95,Andi Hidayat,27,S2,5.0,"Tableau, SQL, React",AI Engineering,69.35
+96,Hadi Saputri,31,S1,5.4,"Machine Learning, Excel, Python, React, SQL, Node.js",AI Engineering,81.6
+97,Indah Santoso,21,S1,4.9,"JavaScript, Node.js, Machine Learning, Power BI, TensorFlow",Data Science,95.2
+98,Andi Nugroho,20,S2,4.1,"Tableau, JavaScript, Deep Learning, Node.js",Data Science,86.04
+99,Joko Gunawan,35,SMA,7.7,"Excel, TensorFlow, Deep Learning",Full Stack Web,81.32
+100,Lukman Saputra,24,D3,0.1,"Excel, Tableau, React, Power BI, Deep Learning, SQL",AI Engineering,72.97
+101,Fajar Nugroho,22,S1,6.0,"Python, Power BI, Node.js",Full Stack Web,73.32
+102,Vina Nugroho,31,SMA,5.7,"Machine Learning, SQL, React, Tableau, Deep Learning, JavaScript",AI Engineering,86.78
+103,Fajar Saputri,27,SMA,7.2,"JavaScript, Machine Learning, SQL, React, Python",Data Science,99.77
+104,Maya Pratama,22,D3,6.0,"Machine Learning, Node.js, Excel",Full Stack Web,86.47
+105,Rizki Utama,20,S1,8.3,"React, Node.js, SQL, Python",Full Stack Web,82.31
+106,Maya Saputra,22,S1,9.6,"Node.js, Machine Learning, TensorFlow",AI Engineering,89.23
+107,Yoga Saputri,24,SMA,3.4,"Python, Machine Learning, Deep Learning, React, Power BI, Excel",Data Science,78.61
+108,Joko Wijaya,34,SMA,2.3,"Tableau, Node.js, JavaScript, Python",Full Stack Web,62.41
+109,Budi Pratama,33,D3,4.2,"Tableau, Excel, React, Deep Learning, Machine Learning, Node.js",Data Science,82.49
+110,Rizki Saputra,22,D3,2.9,"Machine Learning, JavaScript, React, Deep Learning, Python",Full Stack Web,98.31
+111,Hadi Saputri,20,S1,6.1,"TensorFlow, Machine Learning, Power BI",Data Science,67.01
+112,Gita Pratama,24,S2,9.1,"JavaScript, Node.js, Python, TensorFlow",AI Engineering,87.6
+113,Citra Utama,33,S1,1.4,"Deep Learning, Node.js, Python, Power BI, Tableau",Full Stack Web,68.04
+114,Vina Santoso,26,SMA,1.0,"Machine Learning, Tableau, SQL, React, TensorFlow, Power BI",Full Stack Web,81.43
+115,Yoga Kusuma,28,S1,2.6,"Tableau, SQL, Deep Learning, TensorFlow, Excel",Data Science,63.87
+116,Andi Lestari,34,S2,7.3,"Excel, Deep Learning, Tableau, Python, TensorFlow",Data Science,78.01
+117,Citra Wijaya,34,D3,5.9,"Machine Learning, React, Excel, Python, SQL, Node.js",Full Stack Web,90.25
+118,Hadi Rahmawati,29,S2,1.0,"React, Tableau, JavaScript, Power BI, Deep Learning, Node.js",AI Engineering,73.9
+119,Nanda Wijaya,32,S2,9.2,"Node.js, Machine Learning, Python, JavaScript",Data Science,86.6
+120,Putri Utama,38,S2,7.9,"Python, React, Power BI, Node.js",Data Science,91.82
+121,Budi Kusuma,26,D3,0.2,"Node.js, Excel, Power BI",Data Science,97.09
+122,Andi Wijaya,36,S2,6.5,"JavaScript, Python, React, Deep Learning",Full Stack Web,69.39
+123,Vina Pratama,39,S2,7.7,"Node.js, JavaScript, Power BI",Full Stack Web,75.97
+124,Hadi Rahmawati,23,S2,3.7,"SQL, Node.js, JavaScript, Excel",Full Stack Web,66.1
+125,Indah Gunawan,24,SMA,0.7,"JavaScript, SQL, Power BI",Full Stack Web,99.7
+126,Lukman Saputri,26,S2,0.8,"SQL, Python, TensorFlow, React, Excel",AI Engineering,97.08
+127,Citra Rahmawati,32,D3,1.0,"SQL, TensorFlow, Machine Learning",AI Engineering,81.6
+128,Citra Nugroho,34,S2,8.4,"Excel, Python, SQL, Tableau, JavaScript, React",Full Stack Web,93.68
+129,Gita Lestari,30,S2,9.1,"Tableau, Deep Learning, JavaScript, Machine Learning, TensorFlow",AI Engineering,80.84
+130,Yoga Utama,23,D3,1.2,"React, SQL, Python, TensorFlow",Data Science,84.94
+131,Vina Utama,32,S2,2.4,"Node.js, Tableau, SQL, Machine Learning",Data Science,63.56
+132,Yoga Lestari,26,D3,1.7,"Excel, Deep Learning, React, JavaScript, Tableau",Data Science,90.21
+133,Maya Rahmawati,38,S2,1.9,"React, Deep Learning, Python, Node.js",Full Stack Web,65.11
+134,Lukman Wibowo,21,D3,8.4,"TensorFlow, Python, JavaScript, Machine Learning",Data Science,93.04
+135,Gita Utama,29,S2,3.3,"Machine Learning, Node.js, Power BI, Python, TensorFlow",AI Engineering,91.28
+136,Kartika Kusuma,32,S2,3.1,"JavaScript, Excel, Node.js, Machine Learning, Python, React",Full Stack Web,88.35
+137,Putri Gunawan,25,SMA,2.3,"Node.js, React, Tableau",AI Engineering,61.45
+138,Putri Wibowo,31,SMA,6.1,"Tableau, Node.js, TensorFlow, Excel",Data Science,72.13
+139,Putri Hidayat,31,S2,3.8,"SQL, Python, Power BI, Deep Learning, Machine Learning",Data Science,70.52
+140,Fajar Utama,39,S2,7.4,"Excel, TensorFlow, React, JavaScript, Tableau, Power BI",Data Science,74.41
+141,Joko Nugroho,30,S1,2.1,"Deep Learning, Tableau, JavaScript, TensorFlow, Power BI",Full Stack Web,63.51
+142,Citra Wijaya,26,D3,7.9,"SQL, Power BI, Machine Learning, JavaScript",AI Engineering,97.48
+143,Rizki Wijaya,20,S1,6.0,"SQL, Excel, Node.js, Deep Learning, Power BI",Full Stack Web,82.15
+144,Rizki Wijaya,20,SMA,1.1,"TensorFlow, Deep Learning, Tableau, Excel, JavaScript, Power BI",Full Stack Web,72.22
+145,Citra Hidayat,39,SMA,4.1,"JavaScript, TensorFlow, Node.js, React, Machine Learning",Data Science,75.88
+146,Eka Santoso,32,SMA,8.6,"Excel, Node.js, TensorFlow, JavaScript, Python",Full Stack Web,77.89
+147,Tono Saputra,28,SMA,9.2,"Excel, Python, SQL, Tableau",Full Stack Web,84.02
+148,Andi Saputra,22,S2,4.7,"Deep Learning, Python, Tableau, Machine Learning, SQL",Data Science,80.63
+149,Vina Lestari,26,SMA,4.8,"Machine Learning, Deep Learning, Node.js, Excel, Power BI, Python",Full Stack Web,96.78
+150,Nanda Saputra,25,S2,9.2,"Node.js, Machine Learning, Excel, JavaScript, Deep Learning",Data Science,79.88
+151,Rizki Pratama,27,S2,5.9,"Deep Learning, React, Machine Learning",Data Science,99.69
+152,Joko Nugroho,28,SMA,0.3,"Excel, React, Deep Learning",Data Science,94.06
+153,Andi Nugroho,24,SMA,9.1,"React, Python, Excel, Power BI",Data Science,68.34
+154,Maya Pratama,20,D3,2.5,"Power BI, TensorFlow, Python, React, Tableau, Machine Learning",Full Stack Web,97.22
+155,Maya Lestari,38,S1,5.8,"Tableau, Machine Learning, SQL, Python, JavaScript",Data Science,64.65
+156,Tono Saputra,29,SMA,1.7,"Deep Learning, SQL, Machine Learning",Data Science,92.7
+157,Indah Permata,31,D3,0.3,"Machine Learning, Python, React, Deep Learning",Full Stack Web,75.22
+158,Tono Saputra,34,D3,3.1,"TensorFlow, React, Tableau, Deep Learning, SQL, Excel",Full Stack Web,95.12
+159,Rizki Saputra,28,S1,7.8,"SQL, Node.js, Excel",AI Engineering,94.72
+160,Yoga Gunawan,39,S2,2.8,"React, Node.js, JavaScript, Tableau, Excel, Machine Learning",Full Stack Web,92.24
+161,Citra Hidayat,36,SMA,2.2,"Deep Learning, React, SQL",Full Stack Web,91.6
+162,Eka Santoso,36,S1,2.1,"Machine Learning, React, TensorFlow",AI Engineering,72.19
+163,Eka Santoso,39,SMA,5.2,"Machine Learning, Tableau, Node.js, Deep Learning, JavaScript, Excel",Full Stack Web,63.24
+164,Gita Saputri,31,D3,9.8,"TensorFlow, React, SQL, Deep Learning, Python",Full Stack Web,76.12
+165,Yoga Saputra,26,D3,4.6,"Excel, Power BI, Node.js, Machine Learning, JavaScript",Full Stack Web,66.94
+166,Hadi Siregar,21,S2,5.6,"React, Power BI, Python, Tableau, Excel, Deep Learning",Full Stack Web,87.8
+167,Kartika Gunawan,22,D3,8.6,"Tableau, Deep Learning, Node.js, Power BI, JavaScript",AI Engineering,73.84
+168,Putri Nugroho,36,D3,5.4,"Power BI, Tableau, JavaScript",Full Stack Web,99.02
+169,Budi Utama,24,S1,1.8,"Deep Learning, JavaScript, Power BI, Python, React, Node.js",Full Stack Web,85.64
+170,Tono Kusuma,36,SMA,3.0,"Python, JavaScript, Deep Learning, Power BI, SQL, Machine Learning",AI Engineering,92.9
+171,Yoga Wibowo,36,SMA,3.1,"Excel, Node.js, Tableau, Deep Learning, SQL, Machine Learning",Data Science,65.3
+172,Joko Lestari,36,S1,4.0,"Python, Tableau, Node.js",AI Engineering,94.48
+173,Fajar Saputri,21,S2,4.3,"JavaScript, Excel, Deep Learning, Python, SQL, Tableau",Data Science,96.91
+174,Joko Rahmawati,21,SMA,8.0,"Power BI, Deep Learning, Tableau",AI Engineering,79.48
+175,Gita Wijaya,24,D3,3.5,"SQL, TensorFlow, Excel, Power BI, Deep Learning, Node.js",AI Engineering,84.25
+176,Maya Pratama,20,SMA,4.7,"TensorFlow, React, Machine Learning, JavaScript, SQL, Deep Learning",Full Stack Web,90.59
+177,Maya Wijaya,20,D3,6.2,"SQL, Python, Excel, React",Data Science,66.99
+178,Eka Utama,38,S2,3.8,"React, SQL, TensorFlow, Node.js, Machine Learning",Full Stack Web,80.1
+179,Indah Saputra,21,S1,8.4,"Excel, Node.js, TensorFlow, Python, Power BI, Tableau",Data Science,75.95
+180,Dewi Permata,31,SMA,5.9,"Tableau, JavaScript, Deep Learning",AI Engineering,65.85
+181,Eka Siregar,25,S1,2.9,"Excel, Python, SQL",AI Engineering,74.7
+182,Tono Permata,23,SMA,7.1,"Power BI, Machine Learning, TensorFlow, JavaScript, Tableau",Data Science,62.73
+183,Maya Utama,30,D3,5.3,"Power BI, SQL, Excel",Full Stack Web,61.03
+184,Citra Wijaya,36,S1,5.3,"React, JavaScript, Deep Learning, Node.js, Excel, Python",Full Stack Web,65.41
+185,Kartika Wijaya,25,SMA,4.8,"Machine Learning, Excel, Power BI",Full Stack Web,98.52
+186,Nanda Nugroho,24,D3,5.0,"TensorFlow, Python, SQL",Full Stack Web,81.98
+187,Kartika Siregar,39,S1,7.7,"Node.js, Python, JavaScript, Tableau",AI Engineering,98.63
+188,Vina Saputri,21,S1,1.0,"SQL, TensorFlow, Node.js, JavaScript, Tableau, Excel",AI Engineering,77.3
+189,Tono Lestari,25,SMA,3.3,"TensorFlow, JavaScript, React, Tableau",AI Engineering,72.47
+190,Putri Permata,30,SMA,0.8,"JavaScript, Tableau, React, Excel, Deep Learning",AI Engineering,80.25
+191,Andi Kusuma,35,SMA,7.5,"Power BI, SQL, React, JavaScript",AI Engineering,77.58
+192,Fajar Gunawan,35,D3,2.7,"React, Excel, Node.js",Full Stack Web,64.23
+193,Hadi Santoso,20,SMA,9.0,"Deep Learning, Node.js, React, Tableau, JavaScript, TensorFlow",Full Stack Web,85.63
+194,Rizki Wibowo,28,S1,5.3,"TensorFlow, Node.js, Deep Learning, Tableau, Machine Learning, Power BI",Full Stack Web,68.64
+195,Maya Gunawan,25,S1,8.0,"Tableau, JavaScript, TensorFlow",Full Stack Web,84.78
+196,Nanda Saputra,35,SMA,9.8,"Tableau, JavaScript, Deep Learning",AI Engineering,86.01
+197,Yoga Saputra,22,SMA,8.4,"TensorFlow, Python, Power BI",AI Engineering,66.08
+198,Rizki Saputra,39,S2,8.7,"Machine Learning, Deep Learning, React, SQL",AI Engineering,62.45
+199,Vina Saputra,23,S1,4.1,"Tableau, Python, JavaScript, React, Power BI, Node.js",Data Science,91.23
+200,Kartika Saputra,38,D3,5.5,"TensorFlow, Machine Learning, Deep Learning, Power BI, SQL",Full Stack Web,78.39
+201,Citra Pratama,22,S2,2.5,"JavaScript, Deep Learning, Machine Learning, React",Full Stack Web,62.33
+202,Budi Saputra,38,SMA,2.0,"Tableau, TensorFlow, Power BI",AI Engineering,99.79
+203,Budi Gunawan,39,SMA,5.1,"TensorFlow, Python, Machine Learning",Full Stack Web,62.31
+204,Dewi Saputri,26,S1,6.0,"Tableau, Excel, TensorFlow",Full Stack Web,87.8
+205,Sari Pratama,39,SMA,3.4,"React, Machine Learning, Python, TensorFlow",AI Engineering,99.35
+206,Vina Hidayat,28,D3,5.7,"Power BI, Excel, Deep Learning, SQL, Tableau",Data Science,69.57
+207,Maya Kusuma,20,S1,8.9,"Excel, TensorFlow, Machine Learning, Python, Tableau",Data Science,65.69
+208,Tono Wijaya,27,SMA,5.6,"Deep Learning, Machine Learning, Python",Data Science,64.86
+209,Sari Santoso,26,S1,7.2,"Python, Excel, Node.js",AI Engineering,72.13
+210,Vina Permata,37,SMA,8.1,"Tableau, JavaScript, Deep Learning, Node.js, Python",Full Stack Web,64.04
+211,Yoga Siregar,27,SMA,9.9,"Machine Learning, Tableau, Excel, SQL, JavaScript",AI Engineering,87.69
+212,Putri Kusuma,20,SMA,6.0,"Python, SQL, Node.js, TensorFlow, Power BI",AI Engineering,62.49
+213,Andi Lestari,30,D3,8.1,"Node.js, TensorFlow, SQL, JavaScript",Full Stack Web,80.38
+214,Lukman Wibowo,37,D3,9.6,"Python, Machine Learning, Node.js",Data Science,99.87
+215,Yoga Wibowo,29,S1,9.4,"Machine Learning, JavaScript, Python, TensorFlow, Node.js",Data Science,92.56
+216,Maya Permata,22,SMA,1.4,"Python, TensorFlow, Power BI, SQL",AI Engineering,84.61
+217,Kartika Siregar,26,SMA,4.1,"Deep Learning, Power BI, Excel, React",Data Science,72.25
+218,Lukman Rahmawati,35,D3,3.2,"TensorFlow, React, Python, Machine Learning, JavaScript",AI Engineering,84.96
+219,Rizki Saputra,35,SMA,0.9,"Node.js, JavaScript, Power BI, SQL, Machine Learning, TensorFlow",AI Engineering,81.08
+220,Maya Rahmawati,39,D3,6.3,"Python, TensorFlow, React, Tableau, Power BI, Deep Learning",Full Stack Web,77.04
+221,Dewi Lestari,36,SMA,7.4,"Python, Node.js, React, TensorFlow, JavaScript",Full Stack Web,65.23
+222,Citra Wibowo,21,S1,8.5,"Power BI, Deep Learning, Python, React",Full Stack Web,95.46
+223,Gita Wibowo,20,SMA,1.2,"Machine Learning, React, Python",AI Engineering,77.99
+224,Fajar Santoso,35,SMA,8.8,"Machine Learning, React, SQL, Deep Learning, Excel, Node.js",Full Stack Web,67.78
+225,Kartika Lestari,31,S2,6.4,"Machine Learning, JavaScript, SQL, TensorFlow, Power BI",Data Science,74.71
+226,Putri Wijaya,24,D3,7.0,"Deep Learning, Power BI, Node.js, Excel, Tableau",Data Science,76.57
+227,Sari Permata,24,SMA,9.1,"JavaScript, React, Power BI, Deep Learning, TensorFlow",AI Engineering,93.1
+228,Eka Siregar,28,SMA,6.2,"Node.js, Excel, Python, Machine Learning, JavaScript, Power BI",AI Engineering,89.34
+229,Dewi Wibowo,28,S2,3.4,"JavaScript, Machine Learning, React, TensorFlow, SQL",Full Stack Web,90.77
+230,Rizki Rahmawati,22,S2,8.3,"Deep Learning, Power BI, TensorFlow",AI Engineering,60.44
+231,Hadi Saputri,38,D3,3.6,"Node.js, Tableau, SQL, React, Deep Learning",AI Engineering,76.65
+232,Hadi Saputri,35,S2,0.3,"SQL, Node.js, Power BI, JavaScript, Python, Deep Learning",Data Science,79.25
+233,Budi Gunawan,35,S1,8.3,"TensorFlow, JavaScript, Deep Learning, Node.js, Machine Learning",Data Science,60.77
+234,Eka Hidayat,22,S2,3.5,"Deep Learning, SQL, Tableau, Machine Learning, Power BI, Excel",Full Stack Web,70.39
+235,Indah Kusuma,39,S1,7.7,"SQL, JavaScript, Deep Learning, Python",AI Engineering,90.41
+236,Vina Gunawan,20,D3,3.6,"SQL, Python, Machine Learning",AI Engineering,65.48
+237,Hadi Saputri,39,D3,8.6,"Machine Learning, Python, Excel, Power BI",Data Science,81.41
+238,Lukman Utama,30,D3,2.2,"Power BI, Excel, Deep Learning, React",AI Engineering,68.61
+239,Tono Saputri,36,D3,9.7,"TensorFlow, Excel, Machine Learning",Data Science,60.48
+240,Gita Rahmawati,27,D3,7.8,"Python, Machine Learning, SQL, Node.js",Full Stack Web,69.65
+241,Lukman Kusuma,23,S1,1.1,"Python, JavaScript, Tableau, Power BI",Data Science,99.03
+242,Putri Saputra,25,S1,5.7,"JavaScript, Power BI, Excel, TensorFlow",AI Engineering,92.06
+243,Vina Saputri,27,D3,9.9,"JavaScript, Tableau, Power BI",Full Stack Web,98.38
+244,Fajar Lestari,39,S2,4.7,"Machine Learning, Node.js, TensorFlow, Power BI, React",Data Science,79.51
+245,Joko Permata,22,SMA,1.8,"Tableau, React, Deep Learning, Python, SQL, Power BI",Data Science,64.39
+246,Nanda Saputra,35,D3,4.8,"TensorFlow, Deep Learning, React, Tableau",Full Stack Web,81.92
+247,Sari Hidayat,22,S2,5.1,"Excel, SQL, Power BI, TensorFlow, Node.js, Tableau",Full Stack Web,78.18
+248,Andi Santoso,37,SMA,7.4,"JavaScript, Tableau, TensorFlow, Machine Learning, SQL, Deep Learning",Data Science,93.77
+249,Lukman Siregar,33,D3,7.0,"SQL, Power BI, Excel, TensorFlow, Node.js, Machine Learning",AI Engineering,63.92
+250,Kartika Utama,37,D3,4.0,"Tableau, Node.js, JavaScript",Data Science,79.53
+251,Nanda Lestari,21,S1,2.2,"SQL, Deep Learning, JavaScript",Full Stack Web,66.0
+252,Hadi Hidayat,22,SMA,6.5,"TensorFlow, Power BI, SQL, React, Excel",Data Science,72.99
+253,Andi Hidayat,35,SMA,4.2,"Deep Learning, Excel, Node.js",Full Stack Web,89.49
+254,Tono Siregar,28,S2,1.3,"Excel, Power BI, JavaScript, TensorFlow, Node.js, Python",Full Stack Web,79.04
+255,Fajar Wijaya,23,S1,9.0,"Node.js, Python, JavaScript",AI Engineering,75.04
+256,Kartika Wibowo,20,S1,6.9,"JavaScript, React, Python, Machine Learning, Deep Learning, SQL",Full Stack Web,75.78
+257,Hadi Nugroho,23,S1,6.8,"Python, Excel, SQL, Node.js",Full Stack Web,78.38
+258,Fajar Utama,20,S1,8.2,"React, Deep Learning, Tableau, Power BI, Excel, SQL",AI Engineering,91.4
+259,Lukman Saputri,33,SMA,5.3,"JavaScript, TensorFlow, Tableau, React",Full Stack Web,95.68
+260,Putri Kusuma,35,SMA,8.2,"Tableau, TensorFlow, React, Machine Learning",AI Engineering,98.21
+261,Sari Rahmawati,39,D3,5.0,"Node.js, Excel, Deep Learning",AI Engineering,91.48
+262,Putri Saputra,27,D3,0.7,"React, Machine Learning, Tableau",Full Stack Web,72.62
+263,Putri Wibowo,26,S1,4.1,"JavaScript, Python, Deep Learning, Machine Learning, Tableau, React",Full Stack Web,87.53
+264,Sari Nugroho,22,S1,5.0,"SQL, Machine Learning, Node.js, Tableau, Power BI, React",Data Science,77.5
+265,Nanda Rahmawati,36,S1,7.2,"Machine Learning, SQL, TensorFlow, Deep Learning",AI Engineering,70.19
+266,Yoga Kusuma,20,D3,1.1,"Excel, Tableau, Python, React",Data Science,93.63
+267,Budi Lestari,35,S2,1.4,"Machine Learning, Power BI, TensorFlow",Full Stack Web,61.54
+268,Maya Lestari,31,S2,2.6,"Python, Power BI, Node.js",Data Science,96.07
+269,Andi Nugroho,38,D3,2.7,"Node.js, SQL, Power BI, Deep Learning, React, JavaScript",AI Engineering,78.46
+270,Indah Wibowo,33,D3,7.3,"Machine Learning, TensorFlow, React, Python",Data Science,85.49
+271,Eka Saputra,25,D3,2.5,"React, Node.js, Tableau, Excel",AI Engineering,86.37
+272,Tono Saputra,25,D3,6.3,"JavaScript, Deep Learning, SQL, Node.js, Tableau",Full Stack Web,95.8
+273,Nanda Saputri,32,D3,4.9,"SQL, Python, Excel",Full Stack Web,85.47
+274,Kartika Wibowo,38,D3,5.7,"React, TensorFlow, Power BI, JavaScript",AI Engineering,84.56
+275,Yoga Siregar,27,S1,8.4,"Tableau, React, Machine Learning, Excel, JavaScript",Full Stack Web,62.67
+276,Putri Hidayat,21,S1,4.0,"SQL, Machine Learning, Node.js, Python",Full Stack Web,80.74
+277,Nanda Siregar,20,S1,7.7,"TensorFlow, JavaScript, Machine Learning, Node.js, React, Tableau",Full Stack Web,66.01
+278,Indah Utama,34,S1,4.2,"Python, React, TensorFlow, SQL, Power BI, Deep Learning",Full Stack Web,89.5
+279,Yoga Permata,20,D3,3.5,"JavaScript, Excel, React, Power BI, Deep Learning, Node.js",AI Engineering,80.49
+280,Vina Utama,24,S2,9.6,"JavaScript, Deep Learning, React, Power BI",Data Science,87.21
+281,Kartika Gunawan,35,SMA,1.8,"Excel, SQL, React, JavaScript, Tableau",Data Science,61.67
+282,Gita Saputra,38,D3,0.9,"JavaScript, Deep Learning, Excel",Full Stack Web,63.39
+283,Tono Nugroho,23,SMA,7.7,"React, Tableau, Python, Power BI",Data Science,88.65
+284,Budi Pratama,22,S2,0.7,"Tableau, Power BI, SQL, JavaScript, React, Excel",Data Science,62.88
+285,Vina Santoso,36,S1,8.4,"Deep Learning, Python, React, Power BI",Full Stack Web,62.85
+286,Eka Saputri,36,S2,4.4,"Tableau, Node.js, SQL, TensorFlow, React, Deep Learning",Full Stack Web,60.48
+287,Fajar Permata,31,D3,9.2,"Power BI, Node.js, SQL, Machine Learning",Data Science,98.26
+288,Eka Siregar,33,S1,7.2,"Power BI, Deep Learning, Python, TensorFlow, JavaScript, Tableau",AI Engineering,89.5
+289,Putri Kusuma,25,D3,6.1,"Tableau, Python, SQL",Full Stack Web,74.13
+290,Gita Saputri,22,S1,9.5,"Excel, React, Python, Node.js",AI Engineering,71.86
+291,Dewi Nugroho,28,SMA,4.0,"React, SQL, Power BI, Node.js, Deep Learning",Data Science,73.99
+292,Budi Rahmawati,24,SMA,9.5,"Excel, Tableau, Node.js, React",Full Stack Web,90.99
+293,Maya Saputri,36,SMA,1.4,"Deep Learning, JavaScript, TensorFlow, React, Machine Learning",AI Engineering,86.45
+294,Nanda Wijaya,33,S2,4.8,"Deep Learning, Excel, SQL",Full Stack Web,67.41
+295,Andi Permata,22,D3,2.7,"TensorFlow, Tableau, SQL",Data Science,66.96
+296,Eka Wibowo,20,S2,5.4,"TensorFlow, Excel, JavaScript, Power BI",AI Engineering,63.94
+297,Tono Wibowo,39,SMA,1.6,"TensorFlow, React, SQL",Data Science,86.41
+298,Indah Saputri,20,D3,8.4,"TensorFlow, Tableau, Deep Learning, React",Data Science,90.57
+299,Yoga Saputri,22,SMA,8.5,"JavaScript, Machine Learning, Python, Tableau, Power BI",Full Stack Web,70.6
+300,Putri Nugroho,37,S2,9.6,"Python, TensorFlow, React, Node.js, Excel",AI Engineering,60.84
+301,Joko Hidayat,29,S2,1.5,"Tableau, TensorFlow, SQL, Python, Node.js",Data Science,63.29
+302,Indah Permata,22,S2,6.2,"Deep Learning, Node.js, JavaScript",Data Science,98.71
+303,Putri Rahmawati,27,SMA,4.7,"Power BI, Python, Excel, SQL, Tableau, Machine Learning",AI Engineering,71.82
+304,Rizki Santoso,33,D3,3.4,"TensorFlow, Power BI, Deep Learning, Node.js, SQL, Tableau",Data Science,90.77
+305,Sari Siregar,37,D3,3.5,"React, Power BI, JavaScript, Tableau, Python, Node.js",Data Science,84.99
+306,Yoga Saputri,34,SMA,4.1,"Deep Learning, Python, Node.js, Power BI, JavaScript, TensorFlow",AI Engineering,75.28
+307,Kartika Siregar,21,D3,7.0,"Node.js, JavaScript, Deep Learning, Python, Excel, Tableau",AI Engineering,68.23
+308,Fajar Wibowo,29,SMA,6.0,"Machine Learning, TensorFlow, React, Python",AI Engineering,64.86
+309,Hadi Saputri,21,D3,4.6,"Deep Learning, TensorFlow, Power BI, Python, Machine Learning, Tableau",AI Engineering,84.6
+310,Vina Kusuma,36,S1,0.8,"JavaScript, Tableau, SQL, Power BI",Full Stack Web,90.99
+311,Lukman Siregar,27,S1,0.8,"Deep Learning, Python, Power BI, SQL, JavaScript",AI Engineering,85.76
+312,Eka Wijaya,20,S2,0.0,"Tableau, Python, Power BI, Excel, SQL, React",Full Stack Web,81.21
+313,Hadi Saputri,28,S1,9.7,"Node.js, Machine Learning, Tableau, Python",Full Stack Web,61.68
+314,Gita Rahmawati,30,S1,0.1,"Node.js, Python, Tableau, Excel, JavaScript",Full Stack Web,98.74
+315,Vina Lestari,35,S1,1.0,"Tableau, Deep Learning, Python, JavaScript, Node.js, Machine Learning",Data Science,91.95
+316,Andi Permata,26,SMA,3.1,"Node.js, React, JavaScript",Full Stack Web,71.71
+317,Joko Gunawan,29,S1,8.1,"SQL, Python, React, TensorFlow, Deep Learning",Full Stack Web,99.2
+318,Hadi Saputra,22,S1,9.6,"Node.js, Tableau, SQL, Machine Learning, Deep Learning",Data Science,84.08
+319,Eka Wibowo,37,S2,7.9,"Python, Node.js, Tableau, Power BI, JavaScript, Deep Learning",Data Science,83.3
+320,Gita Pratama,32,S1,6.9,"SQL, Python, Excel",Data Science,89.92
+321,Citra Utama,26,S1,5.2,"JavaScript, React, Excel, SQL, Power BI, Deep Learning",AI Engineering,92.47
+322,Eka Lestari,23,D3,0.9,"Tableau, Node.js, Power BI, React",Data Science,86.26
+323,Indah Lestari,32,S2,9.6,"Python, React, Deep Learning",Data Science,65.12
+324,Kartika Lestari,39,S2,7.6,"Node.js, Deep Learning, Python",Full Stack Web,73.53
+325,Joko Rahmawati,20,S2,6.4,"React, Deep Learning, Tableau, Excel, TensorFlow, Python",Data Science,97.12
+326,Tono Siregar,27,S2,7.6,"SQL, Excel, Machine Learning",AI Engineering,68.98
+327,Citra Nugroho,33,S2,7.2,"Tableau, Machine Learning, Power BI, JavaScript, Excel",Data Science,74.89
+328,Hadi Wibowo,35,S2,6.4,"Deep Learning, Node.js, Power BI, Python, Tableau, Machine Learning",AI Engineering,77.28
+329,Maya Saputra,33,SMA,9.8,"Power BI, Node.js, Python, JavaScript, Excel, TensorFlow",Data Science,77.58
+330,Nanda Wibowo,31,S1,9.0,"Deep Learning, JavaScript, Tableau, TensorFlow",Data Science,84.52
+331,Nanda Gunawan,38,S2,6.5,"Excel, Python, Deep Learning, React",Data Science,97.72
+332,Fajar Rahmawati,34,S1,6.9,"Excel, TensorFlow, JavaScript, Python",Data Science,69.63
+333,Nanda Wijaya,21,S1,0.5,"Node.js, SQL, Python, Machine Learning",AI Engineering,64.86
+334,Lukman Gunawan,21,SMA,6.7,"JavaScript, Node.js, SQL, TensorFlow, Deep Learning",AI Engineering,67.9
+335,Indah Lestari,38,S2,0.4,"Power BI, Machine Learning, JavaScript, Tableau, Deep Learning, React",Full Stack Web,95.48
+336,Gita Hidayat,36,D3,5.9,"Excel, Python, JavaScript",AI Engineering,85.83
+337,Yoga Pratama,39,SMA,10.0,"Python, SQL, React, TensorFlow",Data Science,71.44
+338,Budi Gunawan,29,D3,5.6,"Deep Learning, React, SQL, Power BI",Full Stack Web,92.64
+339,Rizki Santoso,25,S1,4.7,"React, TensorFlow, Node.js, Power BI",Full Stack Web,94.45
+340,Fajar Lestari,34,S1,3.1,"SQL, Deep Learning, Node.js, React, Python, Machine Learning",Full Stack Web,93.86
+341,Kartika Lestari,30,SMA,1.2,"Node.js, Power BI, TensorFlow, Excel",Data Science,96.76
+342,Maya Lestari,24,SMA,7.3,"Power BI, Machine Learning, Node.js, SQL, Python",AI Engineering,70.09
+343,Citra Lestari,20,D3,1.9,"Machine Learning, Tableau, TensorFlow",Data Science,90.2
+344,Hadi Hidayat,27,S2,1.2,"React, Excel, Power BI, TensorFlow",Full Stack Web,78.42
+345,Citra Siregar,31,D3,4.2,"TensorFlow, Machine Learning, JavaScript, Deep Learning",Data Science,93.68
+346,Dewi Santoso,31,SMA,8.0,"SQL, JavaScript, Python, React, Excel",Data Science,89.14
+347,Indah Wijaya,24,D3,7.5,"React, Power BI, Node.js, Excel, Tableau, Machine Learning",AI Engineering,91.06
+348,Kartika Hidayat,26,SMA,0.5,"Node.js, Excel, Machine Learning, React, TensorFlow",AI Engineering,86.25
+349,Budi Permata,23,D3,4.6,"Node.js, Tableau, SQL, Power BI, Python, Machine Learning",Full Stack Web,67.1
+350,Yoga Saputra,25,SMA,5.2,"SQL, Excel, TensorFlow, Tableau, React",Data Science,81.8
+351,Tono Gunawan,32,SMA,6.4,"React, Power BI, Node.js, Python",Data Science,99.39
+352,Fajar Santoso,39,SMA,6.5,"Deep Learning, Excel, Machine Learning",AI Engineering,97.5
+353,Maya Saputra,34,S2,3.6,"JavaScript, Tableau, React, Power BI, TensorFlow",Data Science,61.73
+354,Tono Siregar,22,D3,5.6,"Power BI, Machine Learning, React, Python, JavaScript",Data Science,66.59
+355,Dewi Saputra,27,D3,4.8,"Tableau, JavaScript, Power BI",Data Science,65.27
+356,Budi Kusuma,39,D3,8.8,"Node.js, React, JavaScript, Power BI, SQL",AI Engineering,89.04
+357,Maya Wibowo,35,SMA,5.3,"Excel, SQL, Machine Learning, Power BI, TensorFlow",Full Stack Web,92.71
+358,Putri Saputra,32,D3,4.4,"SQL, Power BI, Python, Excel, Tableau, TensorFlow",Full Stack Web,68.54
+359,Citra Pratama,37,D3,4.0,"Deep Learning, TensorFlow, Python, Excel, Tableau, Power BI",Data Science,80.23
+360,Dewi Nugroho,29,SMA,5.7,"Power BI, Machine Learning, Node.js, Deep Learning, SQL",Full Stack Web,93.63
+361,Hadi Siregar,38,S1,8.0,"Power BI, JavaScript, TensorFlow",AI Engineering,89.31
+362,Lukman Santoso,36,SMA,5.4,"Excel, Python, SQL, JavaScript, Node.js",AI Engineering,81.69
+363,Lukman Nugroho,38,D3,6.6,"Power BI, Node.js, JavaScript",Full Stack Web,83.61
+364,Andi Gunawan,24,SMA,7.4,"Tableau, Power BI, Deep Learning, JavaScript",Full Stack Web,80.33
+365,Citra Nugroho,28,S1,5.2,"Python, JavaScript, Machine Learning, Power BI, Tableau, React",Data Science,71.9
+366,Lukman Wibowo,31,SMA,4.3,"Node.js, Tableau, SQL, Excel, TensorFlow, Deep Learning",Full Stack Web,82.6
+367,Budi Nugroho,20,D3,8.8,"Python, Tableau, React, Machine Learning, Deep Learning, JavaScript",Data Science,87.56
+368,Eka Hidayat,20,S1,4.2,"Machine Learning, TensorFlow, Power BI",Data Science,94.93
+369,Gita Siregar,34,S2,4.6,"SQL, Node.js, JavaScript",AI Engineering,85.45
+370,Dewi Siregar,21,D3,9.9,"Deep Learning, Machine Learning, Node.js",AI Engineering,90.44
+371,Dewi Hidayat,35,S1,0.0,"JavaScript, Tableau, Excel",AI Engineering,66.4
+372,Dewi Wijaya,27,S1,1.9,"Tableau, JavaScript, Deep Learning, Python",AI Engineering,78.46
+373,Dewi Permata,32,S2,3.8,"TensorFlow, Python, Machine Learning, Node.js",Full Stack Web,60.37
+374,Joko Kusuma,20,SMA,9.3,"TensorFlow, JavaScript, SQL, Power BI, React, Deep Learning",AI Engineering,69.87
+375,Vina Nugroho,35,SMA,0.7,"TensorFlow, Python, React",Full Stack Web,89.06
+376,Maya Wijaya,26,D3,0.1,"Excel, Deep Learning, TensorFlow, Tableau, Node.js, JavaScript",AI Engineering,99.67
+377,Sari Wijaya,24,S2,0.5,"TensorFlow, React, Power BI, Node.js, Excel",Full Stack Web,63.97
+378,Gita Saputra,22,SMA,0.9,"Deep Learning, SQL, Python, JavaScript",Data Science,76.06
+379,Fajar Saputri,31,S2,0.4,"TensorFlow, Tableau, Machine Learning, Power BI, Deep Learning",Full Stack Web,92.0
+380,Dewi Permata,35,SMA,4.8,"Excel, SQL, Node.js",Full Stack Web,68.16
+381,Nanda Utama,38,S1,5.8,"TensorFlow, Tableau, Excel, Machine Learning, JavaScript",AI Engineering,82.2
+382,Hadi Wijaya,24,SMA,2.7,"JavaScript, Tableau, Excel, Node.js",Full Stack Web,89.32
+383,Maya Permata,33,S2,4.0,"React, Deep Learning, JavaScript",Data Science,84.64
+384,Citra Wijaya,24,S1,0.9,"Power BI, TensorFlow, Machine Learning, Excel",Data Science,67.52
+385,Lukman Siregar,34,S1,3.4,"Power BI, SQL, JavaScript, React, Deep Learning, Node.js",AI Engineering,74.22
+386,Sari Utama,36,S1,5.2,"Machine Learning, SQL, Node.js, Tableau, Excel, Deep Learning",Data Science,91.35
+387,Budi Utama,33,S2,7.3,"TensorFlow, Deep Learning, Power BI",Full Stack Web,82.17
+388,Gita Rahmawati,39,D3,0.0,"Tableau, SQL, JavaScript",Data Science,60.21
+389,Tono Hidayat,24,D3,4.7,"Deep Learning, SQL, Node.js, Excel, React, Machine Learning",AI Engineering,90.44
+390,Budi Saputri,31,D3,3.0,"Deep Learning, Excel, Machine Learning, Node.js, Python, JavaScript",Full Stack Web,61.41
+391,Citra Lestari,35,S2,8.5,"Power BI, Deep Learning, Node.js, React",AI Engineering,89.83
+392,Rizki Hidayat,35,S1,7.2,"JavaScript, Node.js, Tableau, Python, Deep Learning",Full Stack Web,68.1
+393,Kartika Siregar,26,D3,5.9,"Python, Node.js, Deep Learning, Power BI",Data Science,98.32
+394,Tono Saputra,23,S2,2.8,"React, SQL, Excel, Python, Tableau",AI Engineering,74.72
+395,Hadi Hidayat,20,D3,9.1,"Excel, Deep Learning, Node.js, Python",AI Engineering,73.08
+396,Yoga Pratama,24,SMA,0.5,"Machine Learning, Deep Learning, SQL, TensorFlow, JavaScript",Full Stack Web,65.96
+397,Vina Saputra,29,D3,1.1,"Excel, SQL, TensorFlow",AI Engineering,72.22
+398,Vina Utama,24,D3,3.9,"Excel, SQL, Power BI, TensorFlow",Full Stack Web,95.07
+399,Vina Permata,23,S1,1.2,"Tableau, Deep Learning, SQL",Full Stack Web,99.85
+400,Lukman Wibowo,21,S2,9.6,"Power BI, Python, Excel",Full Stack Web,74.73
+401,Indah Wibowo,39,S1,8.0,"Node.js, Excel, Tableau, JavaScript, Machine Learning, React",Full Stack Web,77.94
+402,Andi Wibowo,29,S1,2.6,"React, SQL, Machine Learning, Python, Excel, Power BI",Data Science,88.88
+403,Joko Hidayat,38,S1,5.9,"SQL, Python, Deep Learning, Machine Learning, Excel",Full Stack Web,95.45
+404,Eka Santoso,20,S1,9.8,"Power BI, Excel, React",AI Engineering,83.72
+405,Eka Hidayat,24,S1,8.8,"Python, Node.js, Excel, Deep Learning, React, Power BI",Data Science,75.66
+406,Maya Saputra,32,D3,6.0,"Deep Learning, SQL, Excel, React",AI Engineering,76.5
+407,Putri Nugroho,23,S1,9.0,"Excel, Power BI, JavaScript, Python, React, Tableau",Data Science,87.82
+408,Vina Utama,35,S1,9.9,"Deep Learning, React, Machine Learning, JavaScript, Power BI",Full Stack Web,60.13
+409,Kartika Siregar,35,S2,7.4,"Python, Deep Learning, Excel, Machine Learning, React",Data Science,84.78
+410,Hadi Rahmawati,21,SMA,0.6,"Excel, Power BI, SQL, Deep Learning",Data Science,74.22
+411,Eka Permata,36,D3,4.0,"Tableau, Deep Learning, Machine Learning, Power BI",AI Engineering,91.77
+412,Vina Pratama,39,D3,8.4,"Node.js, Excel, Machine Learning, Tableau, Power BI, TensorFlow",AI Engineering,63.72
+413,Kartika Utama,31,D3,2.3,"Node.js, React, TensorFlow",Full Stack Web,83.53
+414,Citra Wibowo,37,S1,8.3,"Excel, Python, Node.js, Power BI",Data Science,79.24
+415,Citra Kusuma,22,S1,1.2,"Python, Node.js, Deep Learning, Tableau, Machine Learning",Data Science,85.69
+416,Yoga Lestari,20,S1,0.5,"Power BI, Node.js, Tableau, JavaScript, Deep Learning",Data Science,62.59
+417,Budi Saputra,20,S2,3.8,"Excel, Tableau, JavaScript, Deep Learning, Python",Full Stack Web,83.2
+418,Fajar Saputri,38,SMA,0.4,"Node.js, SQL, TensorFlow, Deep Learning",Full Stack Web,82.46
+419,Rizki Permata,30,S1,9.6,"Tableau, Python, JavaScript, Node.js, Power BI, SQL",Full Stack Web,82.43
+420,Yoga Hidayat,24,SMA,8.3,"Node.js, JavaScript, TensorFlow, SQL, Excel",Full Stack Web,84.14
+421,Andi Utama,31,S2,8.0,"Machine Learning, JavaScript, Node.js",Full Stack Web,87.06
+422,Citra Siregar,22,D3,6.3,"Tableau, Excel, Power BI",AI Engineering,92.2
+423,Indah Utama,20,S1,2.2,"Power BI, JavaScript, Node.js, Python, Excel, TensorFlow",Data Science,70.79
+424,Andi Wibowo,20,SMA,5.2,"Machine Learning, Tableau, JavaScript, TensorFlow, Python",Data Science,93.0
+425,Dewi Hidayat,27,SMA,6.0,"Power BI, Machine Learning, Deep Learning, SQL",Data Science,79.93
+426,Dewi Gunawan,29,S1,5.3,"React, Python, Excel",Data Science,63.08
+427,Andi Rahmawati,30,D3,2.6,"TensorFlow, JavaScript, Machine Learning, Node.js, Python, Tableau",Data Science,62.34
+428,Indah Rahmawati,31,D3,5.2,"Node.js, Machine Learning, Excel",Data Science,73.37
+429,Andi Permata,32,D3,4.9,"Node.js, Python, React, Tableau, JavaScript",Data Science,91.4
+430,Maya Lestari,31,S2,10.0,"Tableau, Machine Learning, React, Excel, SQL, Python",Data Science,88.31
+431,Kartika Utama,33,SMA,9.0,"Power BI, Python, React",AI Engineering,91.54
+432,Rizki Saputra,21,SMA,4.6,"Power BI, Tableau, Node.js, SQL, Python",Data Science,80.69
+433,Rizki Rahmawati,38,SMA,6.2,"Node.js, Power BI, TensorFlow, JavaScript, Excel, React",AI Engineering,77.61
+434,Tono Santoso,37,S2,7.5,"Excel, Power BI, Node.js",Full Stack Web,65.9
+435,Sari Gunawan,22,SMA,0.3,"Power BI, Machine Learning, Node.js, Excel",Data Science,73.13
+436,Joko Nugroho,36,S2,8.9,"Excel, Python, JavaScript",Full Stack Web,77.36
+437,Dewi Siregar,27,D3,8.6,"Node.js, Excel, Deep Learning, Power BI, React, TensorFlow",Full Stack Web,63.54
+438,Kartika Saputra,29,S1,4.6,"Tableau, JavaScript, Power BI, TensorFlow, Excel, Machine Learning",Full Stack Web,68.82
+439,Dewi Rahmawati,21,SMA,3.9,"Deep Learning, JavaScript, TensorFlow",AI Engineering,83.93
+440,Dewi Saputra,38,SMA,2.7,"Machine Learning, Excel, Power BI, Node.js",Full Stack Web,89.43
+441,Dewi Kusuma,28,D3,4.8,"React, Tableau, TensorFlow, JavaScript, SQL, Python",Full Stack Web,99.93
+442,Rizki Permata,26,S1,0.4,"TensorFlow, React, Deep Learning",Full Stack Web,97.32
+443,Budi Wibowo,23,S2,8.5,"Deep Learning, Excel, JavaScript, TensorFlow, SQL",Data Science,85.7
+444,Fajar Rahmawati,37,S1,0.4,"TensorFlow, Deep Learning, Excel",Data Science,76.85
+445,Budi Saputri,32,D3,3.3,"Deep Learning, Excel, Tableau, TensorFlow, React, Python",AI Engineering,85.45
+446,Lukman Gunawan,30,D3,9.3,"Deep Learning, Excel, TensorFlow, React, Power BI",AI Engineering,91.43
+447,Eka Santoso,23,S1,7.4,"Python, Tableau, Node.js, Power BI, SQL, TensorFlow",Data Science,64.73
+448,Indah Hidayat,23,S2,2.8,"Python, SQL, Excel, Tableau, TensorFlow, Power BI",AI Engineering,76.4
+449,Maya Wijaya,29,S2,2.5,"React, Excel, Deep Learning",Data Science,93.59
+450,Budi Siregar,24,SMA,0.1,"SQL, Python, Excel, Deep Learning, JavaScript, TensorFlow",Full Stack Web,75.35
+451,Indah Saputri,28,S2,7.0,"Deep Learning, Excel, Power BI, Node.js, React",Full Stack Web,82.87
+452,Yoga Santoso,22,S1,0.5,"Excel, TensorFlow, React, Deep Learning",AI Engineering,83.51
+453,Gita Utama,36,D3,5.3,"JavaScript, TensorFlow, Tableau, Python",Data Science,67.38
+454,Andi Wijaya,22,SMA,9.6,"Machine Learning, Excel, Node.js",Data Science,74.49
+455,Gita Utama,35,SMA,1.1,"React, Tableau, TensorFlow, SQL, Deep Learning, JavaScript",AI Engineering,73.38
+456,Andi Pratama,23,D3,8.9,"Excel, React, SQL, Tableau, Node.js, Power BI",Data Science,61.05
+457,Andi Rahmawati,37,S2,9.9,"TensorFlow, Deep Learning, Tableau, Node.js, Power BI, Python",Full Stack Web,60.97
+458,Maya Wijaya,36,D3,0.6,"JavaScript, Machine Learning, Python, Node.js, SQL",AI Engineering,93.27
+459,Lukman Siregar,26,S2,8.8,"React, Excel, Deep Learning, Machine Learning, JavaScript",AI Engineering,70.92
+460,Dewi Wijaya,24,D3,5.2,"Excel, Python, React",Data Science,80.72
+461,Indah Pratama,31,S1,9.1,"React, Tableau, Node.js, Deep Learning, Power BI",AI Engineering,71.95
+462,Tono Rahmawati,36,S2,5.7,"Deep Learning, TensorFlow, Power BI, JavaScript",Data Science,97.63
+463,Eka Siregar,32,S1,6.6,"Machine Learning, React, Node.js",Data Science,70.37
+464,Rizki Saputra,22,SMA,5.4,"Tableau, Python, React",Data Science,77.19
+465,Lukman Saputri,28,D3,8.6,"Python, TensorFlow, Power BI, SQL, JavaScript, Deep Learning",Data Science,94.91
+466,Kartika Nugroho,36,SMA,7.3,"SQL, Power BI, TensorFlow",Data Science,93.68
+467,Kartika Saputri,36,SMA,5.2,"Excel, Node.js, SQL",AI Engineering,67.44
+468,Kartika Utama,39,SMA,8.7,"Excel, Python, Tableau, Node.js, Power BI",Full Stack Web,92.11
+469,Maya Santoso,35,SMA,2.5,"Python, Excel, TensorFlow, SQL, Deep Learning",Full Stack Web,78.33
+470,Kartika Gunawan,32,D3,1.6,"Python, TensorFlow, Power BI, Deep Learning, React",AI Engineering,79.32
+471,Joko Nugroho,38,SMA,1.6,"Tableau, JavaScript, React, Machine Learning, SQL, Node.js",AI Engineering,65.34
+472,Kartika Nugroho,36,D3,3.3,"Excel, Node.js, JavaScript, Machine Learning, TensorFlow",Full Stack Web,63.22
+473,Citra Santoso,23,D3,2.4,"Python, React, Excel",Full Stack Web,89.12
+474,Sari Santoso,31,S1,9.3,"Python, Deep Learning, Tableau",Full Stack Web,79.86
+475,Nanda Permata,28,S2,1.1,"Machine Learning, React, Python, Excel, SQL",Full Stack Web,77.47
+476,Nanda Wibowo,38,S2,7.0,"Excel, Power BI, Machine Learning, SQL, React",Full Stack Web,89.18
+477,Nanda Nugroho,31,D3,1.9,"Tableau, Power BI, Node.js, Deep Learning, React, Excel",Data Science,90.62
+478,Fajar Kusuma,28,S1,8.8,"TensorFlow, Tableau, Power BI",AI Engineering,66.36
+479,Vina Pratama,26,D3,9.6,"Excel, Machine Learning, SQL",Data Science,84.41
+480,Joko Kusuma,33,D3,4.7,"Power BI, Tableau, React, Deep Learning, SQL, TensorFlow",Full Stack Web,65.41
+481,Joko Utama,39,D3,8.8,"Deep Learning, Power BI, Machine Learning, SQL, React, Node.js",Full Stack Web,90.06
+482,Kartika Siregar,38,S1,0.1,"Tableau, Machine Learning, Deep Learning, Power BI, Excel",Full Stack Web,86.28
+483,Citra Saputri,34,S2,8.2,"JavaScript, Node.js, React",Data Science,98.26
+484,Indah Wijaya,35,S1,2.3,"Machine Learning, Excel, React, TensorFlow, JavaScript, Tableau",Data Science,62.76
+485,Hadi Utama,24,SMA,9.1,"Python, Machine Learning, Deep Learning",Full Stack Web,62.28
+486,Fajar Pratama,22,S1,0.0,"Deep Learning, Excel, SQL, Python, Node.js, React",Data Science,71.29
+487,Eka Saputra,31,S1,5.6,"Deep Learning, React, Machine Learning, Tableau, TensorFlow, Python",Data Science,70.47
+488,Kartika Permata,39,S1,7.6,"React, Excel, Python",Full Stack Web,69.88
+489,Maya Hidayat,23,S1,2.6,"Excel, Tableau, JavaScript, TensorFlow, Machine Learning",Data Science,96.25
+490,Gita Kusuma,35,S2,1.9,"Deep Learning, TensorFlow, JavaScript, Excel",AI Engineering,69.98
+491,Fajar Siregar,26,SMA,0.8,"Power BI, SQL, JavaScript",AI Engineering,70.88
+492,Maya Saputra,32,S2,3.3,"Machine Learning, Python, SQL, Deep Learning, TensorFlow, Node.js",AI Engineering,90.38
+493,Citra Saputri,29,S2,5.6,"SQL, Machine Learning, Deep Learning, Node.js",AI Engineering,77.99
+494,Hadi Siregar,26,S1,1.2,"SQL, Python, React, Excel, TensorFlow",Full Stack Web,91.07
+495,Eka Rahmawati,33,D3,3.8,"JavaScript, Python, Deep Learning",Full Stack Web,62.61
+496,Putri Pratama,24,D3,0.1,"JavaScript, Node.js, React, Power BI, SQL",Full Stack Web,79.5
+497,Citra Nugroho,22,S2,8.2,"Power BI, React, SQL, Deep Learning, Node.js",AI Engineering,61.34
+498,Tono Saputri,30,S2,1.3,"Power BI, Machine Learning, Deep Learning",AI Engineering,62.51
+499,Rizki Hidayat,30,S1,2.8,"TensorFlow, Python, SQL, Node.js, Power BI",Data Science,96.26
+500,Tono Wijaya,37,S2,0.2,"Python, Machine Learning, Power BI, Excel",Data Science,65.57
